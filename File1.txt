@@ -4,7 +4,7 @@ Hello World!!!!!!!!
 Welcome to Git.............
 
 
-featue 1- Login
+featue 1- Login - Updated by team member for checking 3 way merging
 
 feature 2- logout
 
