@@ -7,3 +7,5 @@ Welcome to Git.............
 featue 1- Login
 
 feature 2- logout
+
+bug1 - Fixed
